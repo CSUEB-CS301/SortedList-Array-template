@@ -1,7 +1,6 @@
 #ifndef SORTEDLIST_H
 #define SORTEDLIST_H
 
-
 const int MAX_ITEMS = 5;
 
 template<class T>
