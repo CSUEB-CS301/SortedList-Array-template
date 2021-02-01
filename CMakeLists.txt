@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(unsortedlist
+add_executable(sortedlist
         TestDriver.cpp
-        UnsortedList.h)
+        SortedList.h)
